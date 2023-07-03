@@ -10,12 +10,13 @@
 ## Стек технологій:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Reactbootstrap-35FFF8?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-35FFF8?style=for-the-badge)
 
 ## Інструкція з використання
 
-1. Перейти за посиланням [Unique char](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+1. Перейти за посиланням [Unique char]()
 2. Ввести текст 
 3. Натиснути `Confirm enter`
 4. У полі `Result` - отриманий результат
