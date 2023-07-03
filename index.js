@@ -6,7 +6,7 @@ const resultEl = document.querySelector("#result");
 
 const onFormSumbit = (event) => {
   event.preventDefault();
-  const arr = textAreaEl.value.match(/\b\w+\b/g);
+  const arr = textAreaEl.value.trim().replace(/\s+/g, " ").split(" ");
 
   if (!arr) {
     swal("Oops!", "Enter text in the textarea!", "error");
