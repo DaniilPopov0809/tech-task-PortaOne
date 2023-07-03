@@ -16,7 +16,7 @@
 
 ## Інструкція з використання
 
-1. Перейти за посиланням [Unique char]()
+1. Перейти за посиланням [Unique char](https://daniilpopov0809.github.io/tech-task-PortaOne/)
 2. Ввести текст 
 3. Натиснути `Confirm enter`
 4. У полі `Result` - отриманий результат

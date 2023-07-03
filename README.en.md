@@ -16,7 +16,7 @@ A program for searching for a unique symbol.
 
 ## Instructions for use
 
-1. Go to the link [Unique char]()
+1. Go to the link [Unique char](https://daniilpopov0809.github.io/tech-task-PortaOne/)
 2. Enter the text
 3. Press `Confirm enter'
 4. In the field `Result' - the received result
